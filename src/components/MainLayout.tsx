@@ -28,7 +28,7 @@ const MainLayout: React.FC = () => {
         <Contact />
       </main>
       <footer>
-        <p>&copy; 2024 By James Muriuki</p>
+        <p>&copy; 2024 Built with React(Ts!)</p>
       </footer>
     </>
   );
